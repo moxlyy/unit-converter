@@ -1,0 +1,16 @@
+{
+    "name": "unit-converter",
+    "version": "1.0.0",
+    "description": "A CLI tool for unit conversions.",
+    "main": "converter.js",
+    "scripts": {
+      "start": "node converter.js",
+      "test": "jest"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "jest": "^29.0.0"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+  }
