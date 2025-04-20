@@ -29,7 +29,7 @@ Welcome to the **Unit Converter CLI**! This is a powerful and user-friendly comm
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/unit-converter.git
+    git clone https://github.com/moxlyy/unit-converter.git
     ```
 2. Navigate to the project directory:
     ```bash
